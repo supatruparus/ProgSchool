@@ -1,0 +1,42 @@
+.wrapper{
+	width: 1160px;
+	height: 350px;
+	background-color: white;
+	box-shadow: 0px 81px 120px -77px rgba(34, 37, 59, 0.04);
+	border-radius: 40px;
+	display: flex;
+	justify-content: space-evenly;
+	box-sizing: border-box;
+	padding: 56px 0 56px 0;
+}
+.elem{
+	width: 270px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+.number{
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 77px;
+	line-height: 30px;
+	color: #38BFF2;
+	
+}
+.title{
+	font-family: Gilroy SemiBold;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;
+}
+.text{
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 23px;
+}

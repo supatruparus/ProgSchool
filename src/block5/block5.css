@@ -1,0 +1,33 @@
+.block5__elem{
+	width: 270px;
+	background-color: antiquewhite;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+	background-color: whitesmoke;
+}
+
+.block5-elem__number{
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 77px;
+	line-height: 30px;
+	color: #38BFF2;
+	
+}
+.block5-elem__title{
+	font-family: Gilroy SemiBold;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;
+}
+.block5-elem__text{
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 23px;
+}
