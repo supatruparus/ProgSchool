@@ -1,0 +1,33 @@
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: left;
+	width: 730px;
+	height: max-content;
+	padding: 54px 50px 50px 100px;
+	background: #eaf2f5;
+	border-radius: 40px;
+}
+.title{
+  font-family: Gilroy SemiBold;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 30px;
+/* or 94% */
+
+
+color: #22253B;
+}
+.text{
+  font-family: Gilroy;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+
+
+color: #22253B;
+}

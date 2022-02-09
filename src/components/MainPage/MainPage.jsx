@@ -10,6 +10,8 @@ import Block1 from './blocks/block1/block1'
 import Block4 from './blocks/block4/block4'
 import Block5 from './blocks/block5/block5'
 import {TestButton} from './blocks/TestButton/TestButton'
+import { Metodics } from './blocks/block7-Metodics/Metodics';
+import { Block_prices } from './blocks/Block_prices/Block_price';
 
 
 export const Main = ()=>{
@@ -83,5 +85,8 @@ export const Main = ()=>{
       <Block4 />
       <Block5 />
       <center><TestButton /></center>
+      <Metodics />
+      <Block_prices />
+      
     </main>
   );}

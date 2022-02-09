@@ -1,0 +1,36 @@
+.wrapper {
+	margin: 90px 0 0 0;
+	background: #ffffff;
+	border-radius: 80px;
+	margin: 0 -120px;
+	padding: 90px 120px 90px 120px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 29px 29px;
+	height: 813px;
+}
+.title {
+	font-family: Gilroy SemiBold;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 46px;
+	line-height: 46px;
+	display: block;
+	/* max-width: 660px; */
+	margin: 0 auto;
+	margin-bottom: 35px;
+	font-weight: 600;
+	font-size: 46px;
+	line-height: 46px;
+	/* identical to box height, or 100% */
+	text-align: center;
+	color: #22253b;
+}
+
+.img {
+	width: 401px;
+	height: 313px;
+	background: #eaf2f5;
+	border-radius: 40px;
+	object-fit: none;
+}
