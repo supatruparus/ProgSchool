@@ -1,0 +1,54 @@
+.table {
+	display: block;
+	background: #ffffff;
+	border-radius: 30px;
+}
+.table__line {
+	margin: 0 40px 0 39px;
+	display: grid;
+	grid-template-columns: 2fr 1fr 1fr;
+	font-size: 20px;
+	line-height: 25px;
+	min-height: 57px;
+	border-radius: 10px;
+	align-items: center;
+	padding-left: 39px;
+}
+.table__line_bgGray {
+	display: grid;
+	grid-template-columns: 2fr 1fr 1fr;
+	font-size: 20px;
+	line-height: 25px;
+	min-height: 57px;
+	background: #f3f3f3;
+	border-radius: 10px;
+	align-items: center;
+	padding-left: 39px;
+}
+.table__line_bold{
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 25px;
+	}
+.table__title {
+	min-height: 57px;
+	display: grid;
+	grid-template-columns: 2fr 1fr 1fr;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 25px;
+	padding-left: 39px;
+	align-items: center;
+
+	/* identical to box height, or 156% */
+
+	color: #38bff2;
+}
+.footer_hell {
+	margin: 25px 0 0 35px;
+	font-size: 16px;
+	line-height: 25px;
+	color: #8e8e8e;
+}
