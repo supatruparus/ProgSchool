@@ -85,10 +85,11 @@ export const Main = ()=>{
       </section>
       <Block4 />
       <Block5 />
-      <center><TestButton /></center>
+      <TestButton />
       <Metodics />
       <Block_prices />
       <Block_table marginTop="15px"/>
+      
       
     </main>
   );}

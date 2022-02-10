@@ -6,5 +6,7 @@
 	height: 93px;
 	background: #ffffff;
 	border-radius: 110px;
-	margin-bottom: 26px;
+	margin: 38px auto 101px auto;
+	padding: 12px 37px 12px 14px;
+	gap: 0px 24px;
 }

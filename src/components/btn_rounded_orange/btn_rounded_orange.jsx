@@ -1,6 +1,9 @@
+import css from './btn_rounded_orange.module.css'
 function BtnRoundedOrange(props){
     return (
-        <button class="button--rounded" type="button">{props.text}</button>
+        <button class={css.button}>{props.text}
+            <img src={props.img}></img>
+        </button>
     )
 
 }
