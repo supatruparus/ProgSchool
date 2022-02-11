@@ -1,0 +1,23 @@
+.FlexSpBtw{
+  background-color: #EAF2F5;
+  border-radius: 30px;
+  padding: 65px 53px 65px 53px;
+  box-sizing: border-box;
+  font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+display:flex;
+justify-content: space-between;
+align-items: center;
+width: 1160px;
+height: 218px;
+gap: 0 10px;
+margin: 33px 0 0 0 ;
+}
+.FlexSpBtw p {
+max-width: none;
+font-size: 17px;
+line-height: 22px;
+
+}

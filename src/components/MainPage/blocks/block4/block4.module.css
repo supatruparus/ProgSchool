@@ -33,6 +33,7 @@ rgba(255, 255, 255, 0.973),
 rgba(128, 128, 128, 0.173)
 );
 	opacity: 1;
+	transition: 1.5s ease-in;
 }
 
 .video_container__img {
@@ -54,4 +55,6 @@ rgba(128, 128, 128, 0.173)
 	left: 563px;
 	background: transparent;
 	border: none;
+	transition: 300ms ease-in;
+	cursor: pointer;
 }

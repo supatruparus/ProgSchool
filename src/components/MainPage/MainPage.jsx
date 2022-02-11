@@ -13,6 +13,7 @@ import {TestButton} from './blocks/TestButton/TestButton'
 import { Metodics } from './blocks/block7-Metodics/Metodics';
 import { Block_prices } from './blocks/Block_prices/Block_price';
 import { Block_table } from './blocks/block_table/Block_table';
+import { FlexSpBtw } from './flex_components/FlexSpBtw/FlexSpBtw';
 
 
 export const Main = ()=>{
@@ -89,7 +90,7 @@ export const Main = ()=>{
       <Metodics />
       <Block_prices />
       <Block_table marginTop="15px"/>
-      
+      <FlexSpBtw/>
       
     </main>
   );}
